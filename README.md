@@ -1,2 +1,2 @@
 # workzup
-Workzup – A web application built with React, Node.js, and MongoDB
+Workzup.com.lk – A Landing page built with HTML, Css, and JavaScript
